@@ -8,7 +8,7 @@ export default function PrivacyPolicy() {
                     <div className='border border-gray-200 p-2.5 rounded-xl mt-3 bg-white shadow-xl mb-5 '>
                         <h1 className='font-bold text-2xl xl:p-5 mb-3 mt-3'>Privacy Policy</h1>
                         <div className='xl:p-5'>
-                            <p className='text-justify'>At mstore, accessible from <a href="https://mstore.netlify.app">https://mstore.netlify.app</a>, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by mstore and how we use it.</p>
+                            <p className='text-justify'>At mstore, accessible from <a href="https://mstoree.netlify.app">https://mstoree.netlify.app</a>, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by mstore and how we use it.</p>
 
                             <p className='text-justify mt-3 mb-3'>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 

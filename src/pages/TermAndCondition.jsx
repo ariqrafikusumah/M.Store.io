@@ -11,7 +11,7 @@ export default function TermsAndCondition() {
 
                             <p className=' text-xl mb-3 mt-3'>Welcome to mstore!</p>
 
-                            <p className=' mb-3 mt-3'>These terms and conditions outline the rules and regulations for the use of mstore's Website, located at https://mstore.netlify.app.</p>
+                            <p className=' mb-3 mt-3'>These terms and conditions outline the rules and regulations for the use of mstore's Website, located at https://mstoree.netlify.app.</p>
 
                             <p className=' mb-3 mt-3'>By accessing this website we assume you accept these terms and conditions. Do not continue to use mstore if you do not agree to take all of the terms and conditions stated on this page.</p>
 
